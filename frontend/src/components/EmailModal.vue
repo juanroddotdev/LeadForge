@@ -85,6 +85,8 @@ export default {
       this.error = null
       
       console.log('Generating email for business:', this.business)
+      console.log('Business ID type:', typeof this.business.id)
+      console.log('Business ID value:', this.business.id)
       console.log('API URL:', `${API_BASE_URL}/generate_email`)
       
       try {
