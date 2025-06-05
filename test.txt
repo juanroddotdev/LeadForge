@@ -1,0 +1,2 @@
+This is a text file, not a CSV file.
+It should be rejected by the API. 

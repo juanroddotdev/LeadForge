@@ -1,0 +1,3 @@
+business_name,industry,location
+"This is a very long business name that might cause issues with some systems and databases and should be handled properly",Technology,"This is a very long location that includes the full address with street number, street name, city, state, zip code, and country"
+"Another very long business name that tests the system's ability to handle long strings and special characters like &, @, #, $, %, ^, *, (, ), +, =, {, }, [, ], |, \, :, ;, ', <, >, ?, /, ~, `",Retail,"Another very long location that tests the system's ability to handle long strings and special characters" 
